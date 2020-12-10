@@ -1,0 +1,7 @@
+Spring:
+  application:
+    name: unsplash-service
+unsplash-properties:
+  scheme: https
+  host: api.unsplash.com
+  path: collections?client_id=ejcxMYgmWK3jRhq90P3UkVUDWWtsJ50DRCSqn4b_p10
